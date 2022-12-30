@@ -1,0 +1,13 @@
+*.log
+*.log.*
+*.class
+*.db
+.*
+!.gitignore
+*.iml
+/classes
+/eclipse-output
+/var
+/target
+*.iml
+*.idea
