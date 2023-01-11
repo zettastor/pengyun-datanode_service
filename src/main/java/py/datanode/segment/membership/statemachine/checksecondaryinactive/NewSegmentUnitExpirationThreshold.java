@@ -24,7 +24,9 @@ import py.datanode.checksecondaryinactive.CheckSecondaryInactiveByAbsoluteTime;
 import py.datanode.checksecondaryinactive.CheckSecondaryInactiveByRelativeTime;
 
 public class NewSegmentUnitExpirationThreshold {
-  private static final Logger logger = LoggerFactory.getLogger(NewSegmentUnitExpirationThreshold.class);
+
+  private static final Logger logger = LoggerFactory.getLogger(
+      NewSegmentUnitExpirationThreshold.class);
   private static Map<Archive, CheckSecondaryInactive> DiskExpirationThresholdMap = 
       new ConcurrentHashMap<>();
 
