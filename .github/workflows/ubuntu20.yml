@@ -1,0 +1,11 @@
+name: pengyun-datanode_service
+on: 
+  workflow_dispatch:
+  push:
+    paths-ignore:
+      - '.gitignore'
+      - '.github/workflows/**.yml'
+
+jobs:
+  build:
+    uses: zettastor/pengyun-root/.github/workflows/ubuntu20.yml@1.0-OS
