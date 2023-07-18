@@ -60,6 +60,6 @@
   <parent>
     <artifactId>dbs-root</artifactId>
     <groupId>com.pengyun.dbs</groupId>
-    <version>${revision}</version>
+    <version>1.0.0-OS-SNAPSHOT</version>
   </parent>
 </project>
