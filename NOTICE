@@ -1,0 +1,30 @@
+Apache PYSTOR DBS
+Copyright (C) 2013-2024 Nanjing Pengyun Network Technology Co., Ltd.
+
+This product includes software developed at
+The Apache Software Foundation (http://www.apache.org/).
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+   http://www.apache.org/licenses/LICENSE-2.0
+
+
+## Third Party Software Notices and Information
+1.
+This product includes software developed at The Apache Software Foundation (http://www.apache.org/).
+- Project: Apache Thrift
+- Version Used: 0.91 0.93
+- License: Apache License, Version 2.0
+- URL: https://thrift.apache.org/
+Copyright 2004-2023 The Apache Software Foundation
+
+2.
+This project incorporates software components from the Netty project.
+- Project Name: Netty
+- Version Used:  3.7.0 4.1.32
+- Homepage: https://netty.io/
+- License: Apache License, Version 2.0
+- License URL: https://www.apache.org/licenses/LICENSE-2.0
+Copyright 2008-2024 The Netty Project, All rights reserved.
